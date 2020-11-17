@@ -1,4 +1,4 @@
 # curriculum-maker
 The purpose was learn a new language and produce a project in two week.
 
-See ![Introduction.pdf](https://salimtop.github.io/curriculum-maker/Introducing.pdf)
+See ![Introduction.pdf](/Introducing.pdf)
